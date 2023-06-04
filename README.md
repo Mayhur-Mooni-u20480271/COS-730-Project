@@ -3,6 +3,8 @@ Legacy System COS 730 Project
 author: Mayhur Mooni u20480271
 Institution: University of Pretoria
 
+Softimage Autodesk mimic
+
 This 2D and 3D CAD modeler written in pure javascript
 
 
