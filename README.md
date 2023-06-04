@@ -54,7 +54,15 @@ Supported Constraints
 * Lock Convexity
 * Fillet Meta Constraint
 
-Get Started With the Code
+Requirements to run program
+===========================
+
+nodeJS v9 or higher
+npm 
+Chrome/Firefox web browser
+
+
+Running the Code Locally
 =========================
 
 Install node.js
